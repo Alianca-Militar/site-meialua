@@ -320,6 +320,12 @@ p { margin: 0 0 16px; }
 
 /* ---------- Formulário de contato ---------- */
 
+.canal-email {
+  color: #c9c9cf;
+  max-width: 68ch;
+  margin: -6px 0 24px;
+}
+
 .formulario {
   background: var(--grafite);
   border: 1px solid var(--linha);
